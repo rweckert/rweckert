@@ -1,14 +1,22 @@
-👋 Hi, I’m @rweckert. my name is Robert and my friends call me Robb. With two "b's" 👀 is correct. :-)
-I have been working with type writers connected to microchips since the mid 80's. Texas Instruments, TRS-80, Apple IIc and a Vic 20 paved the way to a IBM compatible clone in 1987 when I was 15. At this time, Xerox and Apple were way ahead of Microsoft game in regards to a graphic user interface. At that time I hacked my Radio Shack 300 baud modem to my IBM clone and started using the KERMIT protocol in hacking AT&T analog systems and city water treatment plants.
-That was a ton of fun, and it has been a great place in life to see the growth of computers in every day life.
+                        _             _   
+ _ ____      _____  ___| | _____ _ __| |_ 
+| '__\ \ /\ / / _ \/ __| |/ / _ \ '__| __|
+| |   \ V  V /  __/ (__|   <  __/ |  | |_ 
+|_|    \_/\_/ \___|\___|_|\_\___|_|   \__|
 
-In fact in writing this, I will be taking a look at how others write their own README profile documents, and adding to this a bit more as an updatee shortly.
-I have so much to share to the community, and excited to have the chance to do so.
+👋 Hi, I’m @rweckert. my name is Robert Eckert. I have been in the industry for over 20 years which had started as a hobby in the 70's and ongoing to recently updating my degree to include Data Sciences. I am a database administrator and developer with years of IT administration experience. My technology stack involves Apache, PHP, MySQL, SQLite, MSS, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music and nature as well as helping others.
 
 - 👀 I’m interested in ... lots of things.
+I enjoy nature, camping, biking, skateboarding, surfing, writing music. Hobbies include maps, reading, and mechanics. Dedicated loving dad. Huge fan of music and helping others.
+
 - 🌱 I’m currently learning ... tons of scripts.
+I am keeping my knowledge of PowerShell scripting at the moment from getting rusty. Embedding a PowerShell dashboard with Apache management.
+
 - 💞️ I’m looking to collaborate on ... tons of data.
+I would like to collaborate on projects that bring complicated data sets to the surface for every day use.
+
 - 📫 Contact: Robert W Eckert  rweckert@gmail.com
+Feel free to contact me regarding any of the scripts or notes listed here in this repository.
 
 <!---
 rweckert/rweckert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
