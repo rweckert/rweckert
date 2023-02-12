@@ -1,9 +1,9 @@
                         _             _   
  _ ____      _____  ___| | _____ _ __| |_ 
-| '__\ \ /\ / / _ \/ __| |/ / _ \ '__| __|
-| |   \ V  V /  __/ (__|   <  __/ |  | |_ 
+| '__\ \ /\ / / _ \/ __| |/ / _ | '__| __|
+| |   \ V  V |  __| (__|   |  __| |  | |_ 
 |_|    \_/\_/ \___|\___|_|\_\___|_|   \__|
-
+                                          
 👋 Hi, I’m @rweckert. my name is Robert Eckert. I have been in the industry for over 20 years which had started as a hobby in the 70's and ongoing to recently updating my degree to include Data Sciences. I am a database administrator and developer with years of IT administration experience. My technology stack involves Apache, PHP, MySQL, SQLite, MSS, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music and nature as well as helping others.
 
 - 👀 I’m interested in ... lots of things.
