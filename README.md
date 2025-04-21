@@ -10,7 +10,7 @@
 **- fStats:** (Linux Shell Script) fStats is a simple file stats viewing utility. <br/>
 [https://github.com/rweckert/fStats]([url](https://github.com/rweckert/fStats)) <br/>
 
-**- qFind:** (Linux Shell Script) ![#1589F0] qFind is a quick and simple file find utility for Linux. `#1589F0` <br/>
+**- qFind:** (Linux Shell Script) `#ff0000` qFind is a quick and simple file find utility for Linux. <br/>
 [https://github.com/rweckert/qFind](https://github.com/rweckert/qFind) <br/>
 
 **- gMapping:** (Linux Shell Script) gMapping is a simple map browser using the embedded Google Maps API. <br/>
