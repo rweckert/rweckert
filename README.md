@@ -1,18 +1,29 @@
-👋 Hi, I’m @rweckert. my name is Robert Eckert. I have been in the industry for over 20 plus years which had started as a hobby in the 70's and ongoing to recently updating my degree to include Data Sciences. I am a database administrator and developer with years of IT administration experience. My technology stack involves Apache, PHP, MySQL, SQLite, MSS, HTML/CSS/Bootstrap, Data Analytics, Report Server and authoring. Besides programming, I have an immense interest in music and nature as well as helping others.
+👋 Hi, I’m @rweckert. my name is Robert .W Eckert. I have been in the industry for over 20 plus years which had started as a hobby in the 70's and ongoing to recently updating my degree to include Data Sciences. I am a database administrator and developer with years of IT administration experience. My technology stack involves Apache, PHP, MySQL, SQLite, MSS, HTML/CSS/Bootstrap, Data Analytics, Report Server and authoring. Besides programming, I have an immense interest in music, nature, biking, hiking, skateboarding, and surfing as well as helping others along the way of life.
 
-- 👀 I’m interested in ... lots of things.
-I enjoy nature, camping, biking, skateboarding, surfing, writing music, maps, science. Hobbies include maps, reading, and mechanics. Dedicated loving dad. Huge fan of music and helping others.
+### GitHub Project Index:
+**- vAlias:** (Linux Shell Script) A simple alias viewing and backup utility. <br/>
+[https://github.com/rweckert/vAlias]([url](https://github.com/rweckert/vAlias)) <br/>
 
-- 🌱 I’m currently learning ... tons of scripts.
-I am keeping my knowledge of PowerShell scripting at the moment from getting rusty. Embedding a PowerShell dashboard with Apache management. Have moved on to bashing in Linux. Created online reference repository which will be uploaded and updated shortly.
+**- pSupply:** (Linux Shell Script) A simple power supply monitoring tool. <br/>
+[https://github.com/rweckert/pSupply](https://github.com/rweckert/pSupply) <br/>
 
-- 💞️ I’m looking to collaborate on ... tons of data.
-I would like to collaborate on projects that bring complicated data sets to the surface for every day use.
+**- fStats:** (Linux Shell Script) fStats is a simple file stats viewing utility. <br/>
+[https://github.com/rweckert/fStats]([url](https://github.com/rweckert/fStats)) <br/>
 
-- 📫 Contact: Robert W Eckert  rweckert@gmail.com
-Feel free to contact me regarding any of the scripts or notes listed here in this repository.
+**- qFind:** (Linux Shell Script) ![#1589F0] qFind is a quick and simple file find utility for Linux. `#1589F0` <br/>
+[https://github.com/rweckert/qFind](https://github.com/rweckert/qFind) <br/>
 
-<!---
-rweckert/rweckert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**- gMapping:** (Linux Shell Script) gMapping is a simple map browser using the embedded Google Maps API. <br/>
+[https://github.com/rweckert/gMapping](https://github.com/rweckert/gMapping) <br/>
+
+**- mRunner:** (Linux Shell Script) A simple run command menu tray utility. <br/>
+[https://github.com/rweckert/mRunner](https://github.com/rweckert/mRunner) <br/>
+
+**- yad-14.0-Setup-From-Scratch:** (Linux Instructions) Step-by-step setup installation of YAD 14.0+ from scratch. <br/>
+[https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) <br/>
+
+
+
+
+
+
