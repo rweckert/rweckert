@@ -10,7 +10,7 @@
 **- fStats:** (Linux Shell Script) fStats is a simple file stats viewing utility. <br/>
 [https://github.com/rweckert/fStats]([url](https://github.com/rweckert/fStats)) <br/>
 
-**- qFind:** (Linux Shell Script) `#ff0000` qFind is a quick and simple file find utility for Linux. <br/>
+**- qFind:** (Linux Shell Script) qFind is a quick and simple file find utility for Linux. <br/>
 [https://github.com/rweckert/qFind](https://github.com/rweckert/qFind) <br/>
 
 **- gMapping:** (Linux Shell Script) gMapping is a simple map browser using the embedded Google Maps API. <br/>
@@ -19,11 +19,8 @@
 **- mRunner:** (Linux Shell Script) A simple run command menu tray utility. <br/>
 [https://github.com/rweckert/mRunner](https://github.com/rweckert/mRunner) <br/>
 
-**- yad-14.0-Setup-From-Scratch:** (Linux Instructions) Step-by-step setup installation of YAD 14.0+ from scratch. <br/>
+**- yad-14.0-Setup-From-Scratch:** (Linux Setup Instructions) Step-by-step setup installation of YAD 14.0+ from scratch. <br/>
 [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) <br/>
 
-
-
-
-
-
+Script interface and instructions listed above written by: Robert W. Eckert - rweckert@gmail.com
+Please feel free to email to submit bugs, changes or requests.
