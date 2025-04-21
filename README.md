@@ -2,13 +2,13 @@
 
 ### GitHub Project Index:
 **- vAlias:** (Linux Shell Script) A simple alias viewing and backup utility. <br/>
-[https://github.com/rweckert/vAlias]([url](https://github.com/rweckert/vAlias)) <br/>
+[https://github.com/rweckert/vAlias](https://github.com/rweckert/vAlias) <br/>
 
 **- pSupply:** (Linux Shell Script) A simple power supply monitoring tool. <br/>
 [https://github.com/rweckert/pSupply](https://github.com/rweckert/pSupply) <br/>
 
 **- fStats:** (Linux Shell Script) fStats is a simple file stats viewing utility. <br/>
-[https://github.com/rweckert/fStats]([url](https://github.com/rweckert/fStats)) <br/>
+[https://github.com/rweckert/fStats](https://github.com/rweckert/fStats) <br/>
 
 **- qFind:** (Linux Shell Script) qFind is a quick and simple file find utility for Linux. <br/>
 [https://github.com/rweckert/qFind](https://github.com/rweckert/qFind) <br/>
