@@ -16,6 +16,9 @@
 **- gMapping:** (Linux Shell Script) gMapping is a simple map browser using the embedded Google Maps API. <br/>
 [https://github.com/rweckert/gMapping](https://github.com/rweckert/gMapping) <br/>
 
+**- cImage:** (Linux Shell Script) A small image to color value listing utility. <br/>
+[https://github.com/rweckert/cImage](https://github.com/rweckert/cImage) <br/>
+
 **- mRunner:** (Linux Shell Script) A simple run command menu tray utility. <br/>
 [https://github.com/rweckert/mRunner](https://github.com/rweckert/mRunner) <br/>
 
