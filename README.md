@@ -1,6 +1,9 @@
 👋 Hi, I’m @rweckert. my name is Robert .W Eckert. I have been in the industry for over 20 plus years which had started as a hobby in the 70's and ongoing to recently updating my degree to include Data Sciences. I am a database administrator and developer with years of IT administration experience. My technology stack involves Apache, PHP, MySQL, SQLite, MSS, HTML/CSS/Bootstrap, Data Analytics, Report Server and authoring. Besides programming, I have an immense interest in music, nature, biking, hiking, skateboarding, and surfing as well as helping others along the way of life.
 
 ### GitHub Project Index:
+**- shLight:** (Linux Shell Script) Useful source syntax highlighting front-end GUI utility.
+[https://github.com/rweckert/shLight](https://github.com/rweckert/shLight) <br/>
+
 **- vAlias:** (Linux Shell Script) A simple alias viewing and backup utility. <br/>
 [https://github.com/rweckert/vAlias](https://github.com/rweckert/vAlias) <br/>
 
